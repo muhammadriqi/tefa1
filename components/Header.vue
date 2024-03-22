@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar bg-primary">
+  <nav class="navbar bg-primary text-white">
     <div class="container-fluid">
       <a class="brand-navbar" href="#">
         <img src="~/assets/img/logo smk.png" alt="Bootstrap" width="80">
