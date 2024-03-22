@@ -67,6 +67,6 @@
 
 <style>
 .form-control{
-  background-color: #B64444;
+  background-color: #b8b7b7;
 }
 </style>
