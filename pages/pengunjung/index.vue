@@ -34,3 +34,7 @@
     </nuxt-link>
   </div>
 </template>
+
+<footer>
+    <p>&copy; 2022 - 2025. Riqi Erdogan</p>
+  </footer>
