@@ -33,8 +33,9 @@
       <button type="button" class="btn btn-secondary" disabled>KEMBALI</button>
     </nuxt-link>
   </div>
-</template>
-
-<footer>
+  <footer>
     <p>&copy; 2022 - 2025. Riqi Erdogan</p>
   </footer>
+
+</template>
+
